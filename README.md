@@ -12,10 +12,12 @@
 
 - Arranged a meeting to discuss potential clients found by the team.
 - Pitched the idea of making a program to some clients.
-- Obtaining initial acceptance from one client and discussing the requirements of the project.
+- Obtaining initial acceptance from one client.
 - Team discussion about the requirements of the project and the possibility of implementing it.
-- Discuss what programming language we will use in case we found a client. 
-- Result was "Java" will be the language for Project.
+- Choose the programming language and other requirements to be used for the implementation of the project.
+    - Result was "Java" will be the language for Project.
+    - SQlite will be the database.
+    - MVC pattern and GUI will be used to create the prototype.
 
 
 
